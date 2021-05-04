@@ -1,0 +1,20 @@
+{
+    "token": "ODM0MDgwNjQxMjc5ODUyNjI0.YH7sIQ.IYIyud1f2b-sXV1zEsQXAc7FZ9U",
+    "prefix": "PREFİX",
+    "sahip": ["744352307256492112" , "812389884106375198"],
+
+    "botseskanalı": "KANAL İD",
+    
+    "hoşgeldinkanalid": "KANAL İD",
+    "görüşürüzkanalid": "KANAL İD",
+
+    "kayıtsızrolid": "KANAL İD", 
+    "otorolkanalid": "KANAL İD",
+
+    "yes": "YEŞİL TİK ONAY",
+    "no": "ÇARPI TİK REDDETME",
+
+    "kurallar": "KURALLAR METİN KANAL İD",
+
+    "serverid": "SUNUCU İD"
+}

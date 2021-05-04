@@ -1,0 +1,28 @@
+{
+  "name": "ossibot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "ossi.js",
+  "scripts": {
+    "test": "node ossi.js"
+  },
+  "author": "Ossi",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.1.2",
+    "chalk": "^4.1.0",
+    "crypto": "^1.0.1",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.18",
+    "ms": "^2.1.3",
+    "node-superfetch": "^0.2.2",
+    "path": "^0.12.7",
+    "quick.db": "^7.1.3",
+    "snekfetch": "^4.0.4",
+    "zlib": "^1.0.5"
+  }
+}
